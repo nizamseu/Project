@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started Niz Academy
 
 Educationam WebSite [CLive site](https://nervous-khorana-bf898b.netlify.app/).
 
