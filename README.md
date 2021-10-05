@@ -11,7 +11,11 @@ Educationam WebSite [CLive site](https://nervous-khorana-bf898b.netlify.app/).
 ## ICON
 1.Material Icon
 
-This site About Free Online Courses
+
+## isResponsive 
+  1.Yes
+  
+### This site About Free Online Courses.
 You can Lear any course from this site anywhere
 
 
