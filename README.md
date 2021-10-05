@@ -1,17 +1,17 @@
-# Getting Started Niz Academy
+# Getting Started with Niz Academy
 
 Educationam WebSite [CLive site](https://nervous-khorana-bf898b.netlify.app/).
 
 ## CSS FrameWork
 
 1. Material UI
-2. Row CSS
+2. Raw CSS
 
 
 ## ICON
-1.Material ICOm
+1.Material Icon
 
-this site About Free Online Courses
+This site About Free Online Courses
 You can Lear any course from this site anywhere
 
 
